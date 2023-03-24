@@ -1,4 +1,4 @@
-REM Title: Template for powershell scripts, in this example it must all be in one line with commands separated by semi-colons
+REM Title: Template for powershell scripts, in this example script must all be in one line with commands separated by semi-colons
 REM Author: Put your name here
 REM Target:  Windows
 REM Supported Layout keyboard: en-US

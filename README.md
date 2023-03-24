@@ -11,3 +11,8 @@ This is a quickstart templated ducky script that you can copy/paste your powersh
 
 
 ![flipperscreenshotcode](https://user-images.githubusercontent.com/33561650/227402925-3d3da87f-c907-47e6-a1f4-2ebe32b5c1e8.JPG)
+
+
+
+** TIPS:
+- Make sure to remove Windows carriage-returns if you insert any when copy/pasting code. You can easily remove any by opening the .txt file in Notepad++, selecting 'Edit' > EOL Conversion > Unix (LF)

@@ -9,8 +9,7 @@ This is a quickstart templated ducky script that you can copy/paste your powersh
 
 - Copy the .txt file to your flipper
 
-![newscreenshottousse](https://user-images.githubusercontent.com/33561650/227406711-cd8ec438-73f4-4bc7-b70e-6b40a98b20c2.png)
-
+![newesttt](https://user-images.githubusercontent.com/33561650/227406891-48f614f6-51fc-465b-bfc6-6c8c1f0e62fb.png)
 
 
 ** TIPS:

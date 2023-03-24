@@ -1,0 +1,14 @@
+REM Title: Template for powershell scripts, in this example it must all be in one line with commands separated by semi-colons
+REM Author: Put your name here
+REM Target:  Windows 
+REM Supported Layout keyboard: en-US
+REM Category: Miscellaneous
+REM Description: Put your description here
+GUI r
+DELAY 600
+STRING powershell 
+ENTER
+DELAY 2000
+REM Separate all powershell commands by semi-colons all on one line below
+STRING write-host "placeholder text"; write-host "placeholder text"; write-host "placeholder text"; write-host "placeholder text"; exit
+ENTER

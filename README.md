@@ -5,7 +5,7 @@ This is a quickstart templated ducky script that you can copy/paste your powersh
 
 - Clone repo
 
-- Replace the one liner place holder powershell text with your own powershell
+- Replace the one liner place holder powershell text with your own powershell. Each command must be on the same line and separated by semi-colons, as shown in screenshot below
 
 - Copy the .txt file to your flipper
 
